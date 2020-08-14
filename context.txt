@@ -1,0 +1,3 @@
+ how are you?
+ im doing good
+ context.txt
